@@ -1,5 +1,5 @@
 # Serving Pattern: Load Balancing Server #
-## Deploying a stateless replicated service behind a load balancer with Kubernetes on Azure Container Servies (AKS) ##
+## Deploying a stateless replicated service behind a load balancer with Kubernetes on Azure Container Services (AKS) ##
 
 In this lab we'll guide you through the steps to deploy a replicated load balancing service that will process requests for the definition of English words. The requests will be processed by a small NodeJS application that we will fire up in Kubernetes using a pre-existing Docker image.
 
